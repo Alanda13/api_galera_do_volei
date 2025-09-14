@@ -45,6 +45,9 @@ class PartidaResposta(BaseModel):
 class PedidoAdesao(BaseModel):
     jogador_id: UUID
 
+class PartidaStatus(BaseModel):
+    status: str
+
 class AvaliacaoCriar(BaseModel):
     partida_id: UUID
     avaliador_id: UUID
