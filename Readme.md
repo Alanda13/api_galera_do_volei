@@ -1,6 +1,6 @@
 # Projeto Galera do Vôlei API
 
-Este projeto consiste em uma API desenvolvida em Python com o framework FastAPI para gerenciar uma comunidade de praticantes de vôlei. A API foi projetada para ir além do CRUD básico, focando em transações e regras de negócio que refletem o comportamento de uma aplicação real.
+Este projeto consiste em uma API desenvolvida em Python com o framework FastAPI para gerenciar uma comunidade de praticantes de vôlei.
 
 ---
 
