@@ -80,8 +80,8 @@ A API estará rodando em `http://127.0.0.1:8000`.
 
 ---
 
-### Evidências dos Testes
+### Testes
 
 Para comprovar o funcionamento da API, os resultados dos testes no Postman estão compilados em um arquivo PDF.
 
-[**Ver Documentação de Testes (PDF)**](./docs/testes de edpoints.pdf)
+[**Ver Documentação de Testes (PDF)**](./docs/testes%20de%20edpoints.pdf)
