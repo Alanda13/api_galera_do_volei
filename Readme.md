@@ -1,4 +1,4 @@
-# 🏐 Projeto Galera do Vôlei - API Arquitetural
+# 🏐 Projeto Galera do Vôlei 
 
 Este projeto implementa a API do "Galera do Vôlei" em **Python/FastAPI**, focando na aplicação de **Arquitetura em Camadas** e no princípio **SOLID (SRP)**, conforme solicitado pela disciplina de Separação de Responsabilidades.
 
