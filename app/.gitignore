@@ -1,0 +1,12 @@
+# Ambientes Virtuais
+venv/
+.venv/
+
+# Arquivos temporários e de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de log e IDEs (Opcional, mas recomendado)
+*.log
+.vscode/
