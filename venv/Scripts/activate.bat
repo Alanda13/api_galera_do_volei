@@ -8,7 +8,11 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
+<<<<<<< HEAD
 set VIRTUAL_ENV=C:\Users\maria\OneDrive\Documentos\ADS 2025.2\api_galera_do_volei\venv
+=======
+set VIRTUAL_ENV=C:\Users\maria\OneDrive\Documentos\ADS 2025.2\Projeto_Galera_do_volei\venv
+>>>>>>> b74c044f605063c1354bdffb957fabf2752a60e2
 
 if not defined PROMPT set PROMPT=$P$G
 
